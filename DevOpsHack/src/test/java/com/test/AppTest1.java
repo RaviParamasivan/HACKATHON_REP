@@ -8,7 +8,7 @@ public class AppTest1 {
 		// TODO Auto-generated method stub
 		AppTest test = new AppTest();
 		String x=test.getTest();
-		assertNotNull(x);
+		assertNull(x);
 		
 
 	}
