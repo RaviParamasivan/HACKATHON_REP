@@ -9,8 +9,6 @@ public class AppTest1 {
 		AppTest test = new AppTest();
 		String x=test.getTest();
 		assertNull(x);
-		
-
 	}
 
 }
